@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/dcamppos83/devsecops/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-### Links de Consulta
+Links de Consulta
 
 https://codebabel.com/sonarqube-with-jenkins/#docker 
 https://stackoverflow.com/questions/54078199/running-sonarqube-scanner-on-a-jenkins-remote-slave
@@ -14,7 +13,6 @@ http://gabrielfeitosa.com/quebrando-o-build-no-jenkins-quando-o-sonarqube-reclam
 https://codebabel.com/sonarqube-with-jenkins/
 
 Jenkins Pipeline
---------------------
 
 https://cloudogu.com/en/blog/continuous_delivery_4_en 
 https://cloudogu.com/en/blog/continuous_delivery_1_basics
@@ -22,6 +20,8 @@ https://cloudogu.com/en/blog/continuous_delivery_2
 https://cloudogu.com/en/blog/continuous_delivery_part_3
 https://cloudogu.com/en/glossary/pipeline/
 
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
