@@ -6,19 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Links de Consulta
 
-https://codebabel.com/sonarqube-with-jenkins/#docker 
-https://stackoverflow.com/questions/54078199/running-sonarqube-scanner-on-a-jenkins-remote-slave
-https://intellitech.pro/integrate-sonarqube-with-jenkins/ 
-http://gabrielfeitosa.com/quebrando-o-build-no-jenkins-quando-o-sonarqube-reclama/
-https://codebabel.com/sonarqube-with-jenkins/
+[https://codebabel.com/sonarqube-with-jenkins/#docker]
 
-Jenkins Pipeline
-
-https://cloudogu.com/en/blog/continuous_delivery_4_en 
-https://cloudogu.com/en/blog/continuous_delivery_1_basics
-https://cloudogu.com/en/blog/continuous_delivery_2
-https://cloudogu.com/en/blog/continuous_delivery_part_3
-https://cloudogu.com/en/glossary/pipeline/
 
 
 ### Markdown
